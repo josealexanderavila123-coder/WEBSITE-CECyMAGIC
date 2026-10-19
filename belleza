@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link rel="icon" href="logo.jpeg" type="image/jfif">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBSITE CECyMagic </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+    .card-img-top{
+        height: 700px;
+        object-fit: cover;
+    }
+     .card{
+        height: 100%;
+     }
+     h1{
+        color: #006633;
+     }
+     p{
+        color: #1239e7;
+        text-align: justify;
+        font-family: Arial, sans-serif;
+
+        
+        
+     }
+
+      body {
+          background-image: url("gif.gif");
+          background-size: cover;
+          background-repeat: no-repeat;
+      }
+    
+      video {
+         width: 700px;
+         height: auto;
+      }
+    </style> 
+</head>
+ 
+<body>
+        <div class="container text-center my-5">
+        <h1 style= color:brown >Riqueza Natural.</h1>
+        <h2 style= color:blue >La naturaleza nos regala vida sin pedir nada a cambio</h2>
+        </div>
+
+        <div class="container my-5">
+        <div class="row g-4">
+
+        <div class="col-md-4">
+        <div class="card h-100 shadow">
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            LAGUNA VALLE DE BRAVO </h5>
+            <p class="card-text">
+            La laguna de Valle de Bravo, también conocida como presa Miguel Alemán, es el corazón turístico del Pueblo Mágico en el Estado de México. Es famosa por sus deportes acuáticos, paseos en lancha y veleros, vuelos en parapente y la cercanía a los santuarios de la mariposa monarca entre noviembre y marzo.</p>
+            <p>Actividades en la laguna
+Deportes acuáticos: vela (Valle es considerado la capital de la vela en México), esquí acuático, wakeboard, kayak y paddle board.
+
+Paseos en lancha o yate: ideales para admirar el mirador de La Peña y las montañas boscosas que rodean el lago.
+
+Pesca recreativa: disponible en embarcaciones pequeñas</p>
+          <p>Aventuras aéreas
+Parapente y ala delta: Valle de Bravo es uno de los mejores lugares del mundo para volar gracias a sus vientos.
+
+Sitios de despegue: Monte Alto y La Torre.
+
+Costo aproximado: $2,100 MXN o $3,000 MXN por vuelo tándem dependiendo de la empresa, duracion y servicios incluidos.</p>
+<img src="lago.jpeg"
+           class="card-img-top"
+           alt="Imagen 8">
+        </div>
+        </div>
+        </div>
+
+        <div class="col-md-4">
+        <div class="card h-100 shadow">
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            CASACADA EL MOLINO </h5>
+            <p class="card-text">
+            La Cascada El Molino en Valle de Bravo es uno de los atractivos naturales más visitados de Avándaro, ideal para senderismo, fotografía y descanso en medio de bosques de pinos y oyameles. Se recomienda visitarla en temporada de lluvias (junio-septiembre) para apreciar su máximo esplendor.</p>
+            <p>Información General</p>
+            <p>Ubicación: Avándaro, Valle de Bravo, Estado de México.
+
+Acceso: Carretera Valle de Bravo–Avándaro, a unos 5.6 km del centro de Valle de Bravo.
+
+Horario: Abierto todos los días de 8:00 a 18:00 hrs.
+
+Tiempo de recorrido: Aproximadamente 1.5–2 horas caminando por senderos y escalinatas.</p>
+            <p>Actividades recomendadas</p>
+            <p>Senderismo: Recorrer los 5.6 km de ruta con desnivel de 192 m.
+
+Picnic: Áreas designadas para comer al aire libre.
+
+Fotografía: Ideal para capturar paisajes y flora silvestre.
+
+Nado en pozas: Experiencia refrescante en temporada cálida.
+
+Visita cultural: Comprar artesanías mazahuas como recuerdo.</p>
+<img src="molino.jpeg"
+           class="card-img-top"
+           alt="Imagen 8">
+
+        
+
+        </div>
+        </div> 
+        </div>
+
+        <div class="col-md-4">
+        <div class="card h-100 shadow">
+           
+        <div class="card-body text-center">
+            <h5 class="card-title">
+            CASCADA VELO DE NOVIA </h5>
+            <p class="card-text">
+            La Cascada Velo de Novia en Valle de Bravo es un atractivo natural que ofrece una experiencia única combinando naturaleza, historia y aventura. La cascada, que tiene una caída de aproximadamente 35 metros, se encuentra dentro del Parque Natural Velo de Novia, un bosque de pino y oyamel. La cascada es famosa por su forma que recuerda un velo de novia, lo que ha llevado a la localidad a llamarla así. Además, hay una leyenda que dice que una joven se arrojó al abismo en este lugar como símbolo de su dolor por un amor no correspondido. La cascada es accesible desde la Ciudad de México o Toluca y ofrece actividades como senderismo, paseos a caballo, rapel en cascada y pícnic en familia. El parque cuenta con servicios como asadores, estacionamiento, cabañas, renta de caballos, miradores, venta de artesanías y antojitos.</p>
+             <img src="velo.jpeg"
+           class="card-img-top"
+           alt="Imagen 8">
+        </div>
+        </div>
+        </div>
+
+
+
+</body>
+</html>
